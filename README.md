@@ -1,4 +1,4 @@
-<img width="200" height="200" src="tenor-48931770.gif" alt="banner">
+<img width="200" height="200" src="./assets/tenor-48931770.gif" alt="banner">
 
 <p align="center">
     [Andres Beyra](https://andres-beyra-porfolio.netlify.app)
