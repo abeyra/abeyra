@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    A creative software engineer from the United States
+    A creative software engineer from the United States with Cuban & Colombian roots
 </p>
 
 <p align="center">
