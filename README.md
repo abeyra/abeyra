@@ -1,4 +1,4 @@
-<img  width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcyber-punk&psig=AOvVaw22k6Ak6fdoAWY4IxnjHcjd&ust=1718935158303000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj2y9GK6YYDFQAAAAAdAAAAABAE" alt="banner">
+<img width="100%" src="https://giphy.com/gifs/night-cyberpunk-cyber-punk-qauCD58fBsZy3V1rVb" alt="banner">
 
 <p align="center" >
     Hey there, I'm
