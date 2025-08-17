@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-    I transform ideas into functional web applications & develop new features for existing products and software solutions to optimize existing applications and meet client needs.
+    I transform ideas into functional web applications & develop new features for existing products and software solutions to meet client needs.
 </p>
